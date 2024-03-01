@@ -1,5 +1,5 @@
-userObject{
-  {
+{
+  "userObject":{
   "user": "jack",
   "age": 33,
   "country": "New York",
