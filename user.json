@@ -1,0 +1,21 @@
+{
+  "user": "jack",
+  "age": 33,
+  "country": "New York",
+  "gender": "male",
+  "caption": "engineer",
+  "hobby": "fgame",
+  "language": "br",
+  "pet": "mit",
+  "salary": 25221,
+  "education": "Bachelor's degree",
+  "experience": 2,
+  "skill": "programming",
+  "height": 175,
+  "weight": 70,
+  "birthday": "1990-08-15",
+  "relationship": "single",
+  "nationality": "https://www.6r.com/?com.hido.Dungeon",
+  "favorite_color": "blue",
+  "food_preference": "vegetarian"
+}
