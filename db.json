@@ -3,19 +3,19 @@
   "user": "jack",
   "age": 33,
   "country": [
-    {"nation":"VN",
+    {"nation":"vn",
       "nationUrl":"https://www.winvn16.com/m/index.html?affiliateCode=pag333"
     },
-    {"nation":"MY",
+    {"nation":"my",
       "nationUrl":"https://www.myan99.co/m/home?affiliateCode=ggapp0013"
     },
-    {"nation":"MM",
+    {"nation":"mm",
       "nationUrl":"https://www.winvn16.com/m/index.html?affiliateCode=pag333"
     },
-    {"nation":"CN",
+    {"nation":"cn",
       "nationUrl":"https://www.winvn16.com/m/index.html?affiliateCode=pag333"
     },
-    {"nation":"PH",
+    {"nation":"ph",
       "nationUrl":"https://fbapp03.ayala2024.net"
     }
   ],
