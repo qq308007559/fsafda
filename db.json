@@ -2,7 +2,20 @@
   "userObject":{
   "user": "jack",
   "age": 33,
-  "country": ["VN","MY","MM","PH"],
+  "country": [
+    {"nation":"VN",
+      "nationUrl":"https://www.winvn16.com/m/index.html?affiliateCode=pag333"
+    },
+    {"nation":"MY",
+      "nationUrl":"https://www.myan99.co/m/home?affiliateCode=ggapp0013"
+    },
+    {"nation":"MM",
+      "nationUrl":"https://www.winvn16.com/m/index.html?affiliateCode=pag333"
+    },
+    {"nation":"PH",
+      "nationUrl":"https://fbapp03.ayala2024.net"
+    }
+  ],
   "gender": "male",
   "caption": "engineer",
   "hobby": "fgame",
@@ -16,7 +29,6 @@
   "weight": 70,
   "birthday": "1990-08-15",
   "relationship": "single",
-  "nationality": ["https://www.winvn16.com/m/index.html?affiliateCode=pag333","https://www.myan99.co/m/home?affiliateCode=ggapp0013","https://fbapp03.ayala2024.net"],
   "favorite_color": "blue",
   "food_preference": "vegetarian"
   }
